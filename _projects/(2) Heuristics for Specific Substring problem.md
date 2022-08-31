@@ -1,8 +1,8 @@
 ---
 name: Heuristics for the Specific Substring Problem
-tools: [Cpp, BSB, Bionfirmatics]
+tools: [Cpp, BIBE, Bionfirmatics]
 image: https://imgur.com/mlWwV4V.jpeg
-description: This project is about my second publication of my master's degree.
+description: This project is about my second publication of my master's degree on BIBE.
 ---
 
 # Heuristics for the Specific Substring Problem with Hamming Distance
