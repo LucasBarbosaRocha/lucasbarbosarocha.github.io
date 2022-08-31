@@ -3,7 +3,6 @@ name: Specific Substring Problem
 tools: [Cpp, BSB, Bionfirmatics]
 image: https://imgur.com/mlWwV4V.jpeg
 description: This project is about a publication of my master's degree.
-external_url: http://bsb2018.ic.uff.br/wp-content/uploads/2018/10/Proceedings-BSB-2018.pdf
 ---
 
 # Specific Substring Problem: an application in bioinformatics
