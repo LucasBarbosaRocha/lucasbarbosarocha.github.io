@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Lucas B. Rocha
 description         : >-
-                      I turn tereré :ice_cube: into code and I break lines to use { }
+                      I turn tereré into code and I break lines to use { }
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lucasbarbosarocha/lucasbarbosarocha.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
