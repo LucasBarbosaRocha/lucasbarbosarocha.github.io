@@ -1,5 +1,5 @@
 ---
-name: Specific Substring Problem: an application in bioinformatics
+name: Specific Substring Problem
 tools: [BSB, bioinformatics]
 image: https://imgur.com/mlWwV4V.jpeg
 description: Given two sets of sequences A and B, the Substring Specific problem
