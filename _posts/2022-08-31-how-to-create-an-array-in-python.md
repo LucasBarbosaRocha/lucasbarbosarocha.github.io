@@ -1,6 +1,6 @@
 ---
 title: How to create an array row by column in python?
-tags: [External Post, Git]
+tags: [Python]
 style: fill
 color: light
 description: To create an array in Python in the format (row*column), we will use a list, and allocate to each position of this list another list, we will make a list of lists.
