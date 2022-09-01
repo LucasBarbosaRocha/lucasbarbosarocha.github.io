@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>,
+Hi I am **{{ site.author.name }}** :wave:,<br>
 eternal computer student, python programmer (preferred programming language), trying to be an amateur cellist and animal lover.
 
 <div class="row">
