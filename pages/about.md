@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm Lucas, eternal computer student, python programmer (preferred programming language), trying to be an amateur cellist and animal lover.
+Hi I am **{{ site.author.name }}** :wave:,<br>,
+eternal computer student, python programmer (preferred programming language), trying to be an amateur cellist and animal lover.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
