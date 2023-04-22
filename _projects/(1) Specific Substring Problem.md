@@ -1,6 +1,6 @@
 ---
 name: Specific Substring Problem
-tools: [Cpp, BSB, Bionfirmatics]
+tools: [Cpp, BSB, Bionfirmatics, Master's degree]
 image: https://imgur.com/mlWwV4V.jpeg
 description: This project is about my first publication of my master's degree on BSB.
 ---
