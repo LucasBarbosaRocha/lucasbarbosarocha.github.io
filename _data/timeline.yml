@@ -13,15 +13,14 @@
   from: 2018
   to: 2019
   description: Master's degree in computer science with a focus on bioinformatics.
-               Research line is "Approaches to the Problem of Selection of Specific Subchains using the Hamming distance".
-  papers: "Specific Substring Problem: an application in bioinformatics" and "Heuristics for the Specific Substring Problem with Hamming Distance".
+               Research line is "Approaches to the Problem of Selection of Specific Subchains using the Hamming distance". Papers of this work are "Specific Substring Problem: an application in bioinformatics" and "Heuristics for the Specific Substring Problem with Hamming Distance".
 
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2020
   to: present
   description: Doctor student in computer science with a focus on bioinformatics.
-               Research line is "The problem of sequence mapping in De Bruijn graphs".
+               Research line is "The problem of sequence mapping in De Bruijn graphs". Paper of this work is "Heuristics for the De Bruijn Graph Sequence Mapping Problem".
 
 - title: Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
