@@ -2,6 +2,10 @@
   percentage: 85
   color: info
 
+- name: AWS
+  percentage: 65
+  color: danger
+
 - name: Git
   percentage: 65
   color: success
