@@ -10,7 +10,7 @@ weight: 3
 Hello, I am **{{ site.author.name }}** :wave:.<br>
 I a programmer (an eternal computer student). I am trying to be an amateur cellist and animal lover.
 
-[Here is my curriculum Lattes](http://lattes.cnpq.br/9266478603595600)
+[Here is my curriculum Lattes](http://lattes.cnpq.br/9266478603595600).
 
 
 <div class="row">
