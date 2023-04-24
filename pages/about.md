@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hello, I am **{{ site.author.name }}** :wave:.<br>
-I a programmer (an eternal computer student). I am trying to be an amateur cellist and animal lover.
+I'm a programmer (an eternal computer student). I'm an animal lover and I'm trying to be an amateur cellist.
 
 [Here is my curriculum Lattes](http://lattes.cnpq.br/9266478603595600).
 
