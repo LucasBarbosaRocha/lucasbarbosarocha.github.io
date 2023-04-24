@@ -4,7 +4,7 @@
 
 - name: SQL
   percentage: 80
-  color: dark
+  color: secondary
 
 - name: AWS
   percentage: 65
