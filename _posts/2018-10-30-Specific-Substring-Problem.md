@@ -2,7 +2,7 @@
 name: Specific Substring Problem
 tags: [Cpp, BSB, Bionfirmatics, Master's degree]
 style: fill
-color: light
+color: secondary
 description: This project is about my first publication of my master's degree on BSB.
 ---
 
