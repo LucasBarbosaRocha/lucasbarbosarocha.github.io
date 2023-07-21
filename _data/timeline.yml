@@ -21,6 +21,20 @@
   description: Doctor student in computer science with a focus on bioinformatics.
                Research line is "The problem of sequence mapping in De Bruijn graphs". Paper of this work is "Heuristics for the De Bruijn Graph Sequence Mapping Problem".
 
+- title: Developer, Bitsis, Mato Grosso do Sul, BR
+  from: 2013
+  to: 2014
+  description: Software developer in dot net language with SQL server and creation of reports with Crystal reports.
+
+- title: Scholarship, PET (Programa de Educação Tutoria), Mato Grosso do Sul, BR
+  from: 2014
+  to: 2017
+  description: I participated in the CS Unplugged project, exploring computer science concepts without the need for a computer. 
+  I conducted research on Software Registration, addressing its significance and challenges. 
+  Additionally, I served as a monitor in Algoritmos e Programação (Algorithms and Programming) courses, guiding and assisting fellow students. 
+  Furthermore, I gained valuable knowledge through configuring the Redmine Ubuntu Server and the installation/maintenance of the Rocks Cluster. 
+  These experiences significantly contributed to my academic and professional development.
+
 - title: Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
   to: present
