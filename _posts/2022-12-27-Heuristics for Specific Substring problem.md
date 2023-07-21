@@ -1,7 +1,8 @@
 ---
 name: Heuristics for the Specific Substring Problem
-tools: [Cpp, BIBE, Bionfirmatics, Master's degree]
-image: https://imgur.com/mlWwV4V.jpeg
+tags: [Cpp, BIBE, Bionfirmatics, Master's degree]
+style: fill
+color: light
 description: This project is about my second publication of my master's degree on BIBE.
 ---
 
