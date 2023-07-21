@@ -2,7 +2,7 @@
 name: Heuristics for the Specific Substring Problem
 tags: [Cpp, BIBE, Bionfirmatics, Master's degree]
 style: fill
-color: light
+color: secondary
 description: This project is about my second publication of my master's degree on BIBE.
 ---
 
