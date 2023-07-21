@@ -7,13 +7,13 @@
   color: primary
 
 - name: Latex
-  percentage: 75
+  percentage: 72
   color: secondary
 
 - name: AWS
-  percentage: 65
-  color: secondary
+  percentage: 68
+  color: warning
 
 - name: Git
   percentage: 65
-  color: secondary
+  color: success
