@@ -4,7 +4,7 @@
 
 - name: Cpp
   percentage: 70
-  color:
+  color: primary
 
 - name: Java
   percentage: 70
@@ -13,3 +13,7 @@
 - name: C
   percentage: 60
   color: secondary
+
+- name: GO
+  percentage: 20
+  color: success
