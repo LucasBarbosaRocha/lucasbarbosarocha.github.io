@@ -2,7 +2,7 @@
 name: Heuristics for the De Bruijn Graph Sequence Mapping Problem
 tags: [Cpp, BioRxiv, ICCSA, Bionfirmatics, Doctorate degree]
 style: fill
-color: light
+color: secondary
 description: This project is about my first publication of my doctorate degree.
 ---
 
