@@ -1,7 +1,8 @@
 ---
 name: Specific Substring Problem
-tools: [Cpp, BSB, Bionfirmatics, Master's degree]
-image: https://imgur.com/mlWwV4V.jpeg
+tags: [Cpp, BSB, Bionfirmatics, Master's degree]
+style: fill
+color: light
 description: This project is about my first publication of my master's degree on BSB.
 ---
 
