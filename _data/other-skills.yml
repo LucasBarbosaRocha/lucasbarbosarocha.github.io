@@ -1,15 +1,19 @@
 - name: Linux
   percentage: 85
-  color: info
+  color: danger
 
 - name: SQL
   percentage: 80
+  color: primary
+
+- name: Latex
+  percentage: 75
   color: secondary
 
 - name: AWS
   percentage: 65
-  color: danger
+  color: secondary
 
 - name: Git
   percentage: 65
-  color: success
+  color: secondary
