@@ -37,6 +37,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+    
+  papers:
+    output: true
+    permalink: /papers/:name
 
 
 ### Disqus ###
