@@ -11,6 +11,7 @@ Hello, I am **{{ site.author.name }}** :wave:.<br>
 I'm a programmer (an eternal computer student). I'm an animal lover and I'm trying to be an amateur cellist.
 
 [Here is my curriculum Lattes](http://lattes.cnpq.br/9266478603595600).
+
 [Here is my ORCID 0000-0002-9606-2569](https://orcid.org/0000-0002-9606-2569).
 
 
