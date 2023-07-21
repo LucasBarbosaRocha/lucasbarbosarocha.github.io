@@ -3,7 +3,7 @@
   color: danger
 
 - name: Cpp
-  percentage: 70
+  percentage: 75
   color: primary
 
 - name: Java
@@ -15,5 +15,5 @@
   color: secondary
 
 - name: GO
-  percentage: 20
+  percentage: 30
   color: success
