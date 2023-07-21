@@ -2,7 +2,7 @@
 name: URI exercices
 tools: [C, Java, Python, Programming, URI, Beecrowd]
 image: https://i.imgur.com/1vY1jxN.png
-description: this project is a set of solved exercises for the Beecrowd platform.
+description: This project is a set of solved exercises for the Beecrowd platform.
 ---
 
 # URI exercices
