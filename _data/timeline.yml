@@ -21,18 +21,36 @@
   description: Doctor student in computer science with a focus on bioinformatics.
                Research line is "The problem of sequence mapping in De Bruijn graphs". Paper of this work is "Heuristics for the De Bruijn Graph Sequence Mapping Problem".
 
+- title: Trainee, Bitsis, Mato Grosso do Sul, BR
+  from: 2013
+  to: 2013
+  description: Trainee in software development using the DOT NET language, utilizing SQL Server, and generating reports with Crystal Reports.
+
 - title: Developer, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2014
-  description: Software developer in dot net language with SQL server and creation of reports with Crystal reports.
+  description: Software developer in the DOT NET language, using SQL Server, and generating reports with Crystal Reports.
 
 - title: Scholarship, PET (Programa de Educação Tutoria), Mato Grosso do Sul, BR
   from: 2014
   to: 2017
-  description: I participated in the CS Unplugged project, exploring computer science concepts without the need for a computer. I conducted research on Software Registration, addressing its significance and challenges. Additionally, I served as a monitor in Algoritmos e Programação (Algorithms and Programming) courses, guiding and assisting fellow students. Furthermore, I gained valuable knowledge through configuring the Redmine Ubuntu Server and the installation/maintenance of the Rocks Cluster. These experiences significantly contributed to my academic and professional development.
+  description: I conducted research on Software Registration, addressing its significance and challenges. Additionally, I served as a monitor in Algorithms and Programming courses, guiding and assisting fellow students. Furthermore, I gained valuable knowledge through configuring the Redmine Ubuntu Server and the installation/maintenance of the Rocks Cluster. These experiences significantly contributed to my academic and professional development.
+
+- title: Voluntter monitor, FACOM-UFMS, Mato Grosso do Sul, BR
+  from: 2015
+  to: 2015
+  description: The project DESTACOM was conducted by some professors from FACOM-UFMS and aims to teach programming logic and programming to students from public and private schools. The motto is "CS Unplugged," which means "Teaching Computing without a computer." In the first part of the project, students learn the concepts without the need for a computer. Then, a programming language is taught, with Python being the chosen one. Monitors accompany the teachers during classes and assist the students in case of doubts.
+
+- title: Volunteer monitor, FACOM - UFMS, Mato Grosso do Sul, BR
+  from: 2017
+  to: 2017
+  description: Volunteer monitor in the subject of Formal Languages and Automata, assisting students with exercise problem-solving and providing support to the professor during classes.
 
 - title: Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
   to: present
-  description: Software developer at Akross (Rio de Janeiro) by Canopus (Rio Grande do Sul). 
-               Development in java and python and we use the AWS platform (Data Pipeline, DynamoDB, Lambda, S3, SQS)
+  description: Software developer at Akross (Rio de Janeiro), employed by Canopus (Rio Grande do Sul). 
+               I have intermediate experience in Java - Spring Boot, Python, and basic knowledge in GO. 
+               I work with the AWS platform, using services such as Data Pipeline, DynamoDB, Lambda, S3, SQS, Step Function, and EventBridge. 
+               Additionally, we use Bitbucket Pipelines to deploy new application versions and configure and utilize Google Analytics 4 in Go and JS.
+
