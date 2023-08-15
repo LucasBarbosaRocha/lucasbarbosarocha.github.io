@@ -1,7 +1,8 @@
 - title: Student, Waldemir Barros da Silva, Mato Grosso do Sul, BR
   from: 2008
   to: 2011
-  description: Technical course in computing integrated into high school
+  description: Technical course in computing integrated into high school. 
+               My experiences in the computer technical course include programming and algorithms, database, computer maintenance, computer networks and participation in the Brazilian Olympiad in Informatics (OBI).
                
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2014
@@ -13,7 +14,7 @@
   from: 2018
   to: 2019
   description: Master's degree in computer science with a focus on bioinformatics.
-               Research line is "Approaches to the Problem of Selection of Specific Subchains using the Hamming distance". Papers of this work are "Specific Substring Problem an application in bioinformatics" and "Heuristics for the Specific Substring Problem with Hamming Distance".
+               Research line is "Approaches to the Specific Substring Selection Problem using Hamming Distance". Papers of this work are "Specific Substring Problem an application in bioinformatics" and "Heuristics for the Specific Substring Problem with Hamming Distance".
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2020
