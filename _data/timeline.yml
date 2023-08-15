@@ -21,6 +21,16 @@
   description: Doctor student in computer science with a focus on bioinformatics.
                Research line is "The problem of sequence mapping in De Bruijn graphs". Paper of this work is "Heuristics for the De Bruijn Graph Sequence Mapping Problem".
 
+- title: Trainee, Cruzeiro do Sul, Mato Grosso do Sul, BR
+  from: 2012
+  to: 2012
+  description: Trainee at SENAT at Cruzeiro do Sul company, responsible for providing technical support to employees and computer maintenance.
+  
+- title: Trainee, Plaenge, Mato Grosso do Sul, BR
+  from: 2012
+  to: 2013
+  description: Trainee in user support, responsible for computer formatting, peripherals replacement, and network troubleshooting.
+  
 - title: Trainee, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2013
@@ -36,7 +46,7 @@
   to: 2017
   description: I conducted research on Software Registration, addressing its significance and challenges. Additionally, I served as a monitor in Algorithms and Programming courses, guiding and assisting fellow students. Furthermore, I gained valuable knowledge through configuring the Redmine Ubuntu Server and the installation/maintenance of the Rocks Cluster. These experiences significantly contributed to my academic and professional development.
 
-- title: Voluntter monitor, FACOM-UFMS, Mato Grosso do Sul, BR
+- title: Volunteer monitor, FACOM-UFMS, Mato Grosso do Sul, BR
   from: 2015
   to: 2015
   description: The project DESTACOM was conducted by some professors from FACOM-UFMS and aims to teach programming logic and programming to students from public and private schools. The motto is "CS Unplugged," which means "Teaching Computing without a computer." In the first part of the project, students learn the concepts without the need for a computer. Then, a programming language is taught, with Python being the chosen one. Monitors accompany the teachers during classes and assist the students in case of doubts.
