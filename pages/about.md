@@ -8,11 +8,11 @@ weight: 3
 # **About Me**
 
 Hello, I am **{{ site.author.name }}** :wave:.<br>
-I'm a programmer (an eternal computer student). I'm an animal lover and I'm trying to be an amateur cellist.
+I'm a lifelong computer student and programmer. I adore animals and I'm aspiring to become an amateur cellist.
 
-[Here is my curriculum Lattes](http://lattes.cnpq.br/9266478603595600).
+You can find my academic profile on [Lattes](http://lattes.cnpq.br/9266478603595600) and my ORCID is [0000-0002-9606-2569](https://orcid.org/0000-0002-9606-2569).
 
-[Here is my ORCID 0000-0002-9606-2569](https://orcid.org/0000-0002-9606-2569).
+Feel free to visit my [personal Github](https://github.com/lucas-lb-rocha) and my [academic Github](https://github.com/LucasBarbosaRocha) profiles.
 
 
 <div class="row">
