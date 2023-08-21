@@ -1,4 +1,4 @@
-te---
+---
 name: Snake game
 tools: [Python, Programming, PyGame]
 image: https://imgur.com/3k66WDa
