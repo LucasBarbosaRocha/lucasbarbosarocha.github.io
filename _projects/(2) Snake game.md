@@ -1,7 +1,7 @@
----
+te---
 name: Snake game
 tools: [Python, Programming, PyGame]
-image: https://i.imgur.com/1vY1jxN.png
+image: https://imgur.com/3k66WDa
 description: Implementation of the famous snake game in Python3.8.
 ---
 
