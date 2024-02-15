@@ -14,8 +14,8 @@ formulation, namely the De Bruijn Graph Sequence Mapping Problem (BSMP). We focu
 graph. We reformulated the problem, taking into account the characteristics of the arcs induced in the De Bruijn graph. This reformulation led
 to a modification in the problem definition, allowing the application of a polynomial-time algorithm for its resolution.
 
-Preprint: [Biorxiv]([https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2024/580401&roleName=author&msversion=1])) <br />
+Preprint: [Biorxiv](https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2024/580401&roleName=author&msversion=1) <br />
 
 <p class="text-center">
-{% include elements/button.html link="([https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2024/580401&roleName=author&msversion=1])" text="Learn More" %}
+{% include elements/button.html link="https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2024/580401&roleName=author&msversion=1" text="Learn More" %}
 </p>
