@@ -1,12 +1,12 @@
 ---
-name: The De Bruijn Mapping Problem with Changes in the Graph
+name: The De Bruijn Graph Sequence Mapping Problem with Changes in the Graph
 tags: [BioRxiv, Bionfirmatics, Doctorate degree]
 style: border
 color: dark
 description: This project is about my second publication of my doctorate degree.
 ---
 
-# The De Bruijn Mapping Problem with Changes in the Graph
+# The De Bruijn Graph Sequence  Mapping Problem with Changes in the Graph
 
 In computational biology, mapping a sequence s onto a sequence graph G is a significant challenge. One possible approach to addressing this problem is to identify a walk p in G that spells a sequence
 which is most similar to s. This problem is known as the Graph Sequence Mapping Problem (GSMP). In this paper, we study an alternative problem
