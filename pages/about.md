@@ -12,7 +12,7 @@ I'm a lifelong computer student and programmer. I adore animals and I'm aspiring
 
 You can find my academic profile on [Lattes](http://lattes.cnpq.br/9266478603595600) and my ORCID is [0000-0002-9606-2569](https://orcid.org/0000-0002-9606-2569).
 
-you can see my profile on [beewcrow](https://judge.beecrowd.com/pt/profile/26795) (old URI).
+you can see my profile on [beewcrowd](https://judge.beecrowd.com/pt/profile/26795) (old URI).
 
 Feel free to visit my [personal Github](https://github.com/lucas-lb-rocha) and my [academic Github](https://github.com/LucasBarbosaRocha) profiles.
 
