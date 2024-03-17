@@ -7,7 +7,7 @@ description: Implemenation of web application in golang.
 
 # DevBook
 
-This Golang project was developed as a result of the course available at https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/?couponCode=KEEPLEARNING.
+This Golang project was developed as a result of the course available at [Udemy](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa).
 
 It consists of two main components:
 
@@ -16,8 +16,8 @@ It consists of two main components:
 
 For more details, you can access the source code on GitHub:
 
-- Dev-book-api: https://github.com/lucas-lb-rocha/dev-book-api
-- Dev-book-application-web: https://github.com/lucas-lb-rocha/dev-book-application-web
+- [Dev-book-api](https://github.com/lucas-lb-rocha/dev-book-api)
+- [Dev-book-application-web](https://github.com/lucas-lb-rocha/dev-book-application-web)
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/lucas-lb-rocha/dev-book-application-web" text="Learn More" %}
