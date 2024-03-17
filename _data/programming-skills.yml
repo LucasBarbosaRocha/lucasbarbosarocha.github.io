@@ -7,13 +7,13 @@
   color: primary
 
 - name: Java
-  percentage: 70
+  percentage: 73
   color: secondary
   
-- name: C
-  percentage: 66
+- name: GO
+  percentage: 60
   color: warning
 
-- name: GO
-  percentage: 30
+- name: C
+  percentage: 50
   color: success
