@@ -9,7 +9,7 @@ description: Implementation of the famous snake game in Python3.8.
 
 This project features a Python implementation of the classic snake game as found on Nokia cell phones. 
 The implementation is done in the Python programming language. 
-The project is a product of João Tinti's pyGame course. For further information about the course, visit: https://www.youtube.com/@joao-tinti
+The project is a product of João Tinti's pyGame course. For further information about the course, visit [@joao-tinti](https://www.youtube.com/@joao-tinti)
 
 Click on Learn More to access the repository.
 
