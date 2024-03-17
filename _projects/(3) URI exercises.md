@@ -7,7 +7,7 @@ description: This project is a set of solved exercises for the Beecrowd platform
 
 # URI exercices
 
-This repository contains solved programming exercises for the URI Online Judge platform (now (www.beecrowd.com.br)).
+This repository contains solved programming exercises for the URI Online Judge platform (now [beecrowd](www.beecrowd.com.br)).
 
 Do not use these exercises for submission in your URI profile, especially in programming classes that use the URI as an assessment tool.
 Use only to consult and study how the exercise was solved. Try your best to solve them yourself.
