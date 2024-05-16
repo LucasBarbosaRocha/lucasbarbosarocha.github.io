@@ -15,6 +15,9 @@ For more details, you can access the source code on GitHub:
 
 - [Quarkus Social](https://github.com/lucas-lb-rocha/Quarkus-social)
 
+Click here to access the [udemy certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-44e015c9-552f-4300-a63f-3ffa6245618c.pdf).
+
+
 <p class="text-center">
 {% include elements/button.html link="https://github.com/lucas-lb-rocha/Quarkus-social" text="Learn More" %}
 </p>
