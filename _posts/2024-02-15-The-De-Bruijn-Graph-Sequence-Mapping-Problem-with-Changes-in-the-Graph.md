@@ -3,7 +3,7 @@ name: The De Bruijn Graph Sequence Mapping Problem with Changes in the Graph
 tags: [BioRxiv, Bionfirmatics, Doctorate degree]
 style: border
 color: dark
-description: This project is about my second publication of my doctorate degree.
+description: This project is about the preprint of my second publication of my doctorate degree.
 ---
 
 # The De Bruijn Graph Sequence  Mapping Problem with Changes in the Graph
