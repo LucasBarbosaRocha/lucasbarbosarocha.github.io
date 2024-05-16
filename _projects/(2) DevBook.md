@@ -19,6 +19,8 @@ For more details, you can access the source code on GitHub:
 - [Dev-book-api](https://github.com/lucas-lb-rocha/dev-book-api)
 - [Dev-book-application-web](https://github.com/lucas-lb-rocha/dev-book-application-web)
 
+Click here to access the [udemy certificate](https://www.udemy.com/certificate/UC-12e20fbf-1aba-4bac-99f0-a2cff9053aee/).
+
 <p class="text-center">
 {% include elements/button.html link="https://github.com/lucas-lb-rocha/dev-book-application-web" text="Learn More" %}
 </p>
