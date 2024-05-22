@@ -2,7 +2,7 @@
 name: Quarkus social
 tools: [Java, Programming, Quarkus]
 image: https://i.imgur.com/KBbiHMo.png
-description: Implemenation of api application in quarkus.
+description: Implemenation of an application in quarkus.
 ---
 
 # DevBook
