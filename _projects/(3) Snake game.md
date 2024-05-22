@@ -2,13 +2,13 @@
 name: Snake game
 tools: [Python, Programming, PyGame]
 image: https://i.imgur.com/3k66WDa.jpg
-description: Implementation of the famous snake game in Python3.8.
+description: Implementation of the famous snake game using PyGame with Python3.8.
 ---
 
 # Snake game
 
 This project features a Python implementation of the classic snake game as found on Nokia cell phones. 
-The implementation is done in the Python programming language. 
+The implementation is done in the Python programming language and we use the PyGame lib. 
 The project is a product of João Tinti's pyGame course. For further information about the course, visit [@joao-tinti](https://www.youtube.com/@joao-tinti)
 
 Click on Learn More to access the repository.
