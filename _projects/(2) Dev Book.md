@@ -1,7 +1,7 @@
 ---
 name: DevBook
 tools: [Golang, Programming, DevBook]
-image: https://1.imgur.com/z62oQwc.jpg
+image: https://i.imgur.com/z62oQwc.jpeg
 description: Implemenation of a web application in golang.
 ---
 
