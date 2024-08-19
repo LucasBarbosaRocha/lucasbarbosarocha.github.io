@@ -2,7 +2,7 @@
 name: Parking
 tools: [Java, Spring Boot, Programming]
 image: https://1.imgur.com/fySGZuG.jpg
-description: Implemenation of a API for parking system.
+description: Implemenation of am application in spring boot.
 ---
 
 # Parking
