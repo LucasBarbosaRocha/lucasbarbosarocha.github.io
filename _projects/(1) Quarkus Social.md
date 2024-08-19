@@ -1,7 +1,7 @@
 ---
 name: Quarkus social
 tools: [Java, Programming, Quarkus]
-image: https://i.imgur.com/KBbiHMo.png
+image: https://i.imgur.com/KBbiHMo.jpeg
 description: Implemenation of an application in quarkus.
 ---
 
