@@ -2,7 +2,7 @@
 name: Apache Kafka
 tools: [Java, Kafka, Programming, Spring Boot]
 image: https://i.imgur.com/XGMONU8.png
-description: Implementation of an intelligent application in Spring Boot to study Apache Kafka.
+description: Implementation of an short application in Spring Boot to study the Apache Kafka.
 ---
 
 # DevBook
