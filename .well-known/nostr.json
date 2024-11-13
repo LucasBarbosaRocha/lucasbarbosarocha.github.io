@@ -11,7 +11,7 @@
          "wss://wot.utxo.one/",
          "wss://nostr.wine/",
          "wss://relay.nostr.band/",
-         "wss://relay.damus.io/",
+         "wss://relay.damus.io/"
       ]
     }
   }
