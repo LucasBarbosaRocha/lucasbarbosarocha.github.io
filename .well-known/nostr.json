@@ -1,0 +1,17 @@
+{
+    "names": {
+      "barbosa": "2e57edc013f24d56c464ef925dcd1a2f26ccf637dce6cf97a62a1d632a9c9dfb",
+      "_": "2e57edc013f24d56c464ef925dcd1a2f26ccf637dce6cf97a62a1d632a9c9dfb"
+    },
+    "relays": {
+      "2e57edc013f24d56c464ef925dcd1a2f26ccf637dce6cf97a62a1d632a9c9dfb": [
+         "wss://nos.lol/",
+         "wss://carlos-cdb.top/",
+         "wss://nostr.mining.sc/",
+         "wss://wot.utxo.one/",
+         "wss://nostr.wine/",
+         "wss://relay.nostr.band/",
+         "wss://relay.damus.io/",
+      ]
+    }
+  }
