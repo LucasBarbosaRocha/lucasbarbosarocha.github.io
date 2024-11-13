@@ -76,7 +76,7 @@ defaults:
       comments: false                                   # Set to true to enable disqus comments
 
 include:
-  - _well-known
+  - .well-known
 
 ### Exclude from processing ###
 exclude:
