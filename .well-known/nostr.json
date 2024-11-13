@@ -1,10 +1,10 @@
 {
     "names": {
-      "barbosa": "2e57edc013f24d56c464ef925dcd1a2f26ccf637dce6cf97a62a1d632a9c9dfb",
-      "_": "2e57edc013f24d56c464ef925dcd1a2f26ccf637dce6cf97a62a1d632a9c9dfb"
+      "barbosa": "ff78f61a8c4041d23b3efb08807b79e6518078f1ceb7a372788ed344d1b5cd79",
+      "_": "ff78f61a8c4041d23b3efb08807b79e6518078f1ceb7a372788ed344d1b5cd79"
     },
     "relays": {
-      "2e57edc013f24d56c464ef925dcd1a2f26ccf637dce6cf97a62a1d632a9c9dfb": [
+      "ff78f61a8c4041d23b3efb08807b79e6518078f1ceb7a372788ed344d1b5cd79": [
          "wss://nos.lol/",
          "wss://carlos-cdb.top/",
          "wss://nostr.mining.sc/",
