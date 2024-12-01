@@ -59,9 +59,14 @@
 
 - title: Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
-  to: present
+  to: 2024
   description: Software developer at Akross (Rio de Janeiro), employed by Canopus (Rio Grande do Sul). 
                I have intermediate experience in Java - Spring Boot, Python, and basic knowledge in GO. 
                I work with the AWS platform, using services such as Data Pipeline, DynamoDB, Lambda, S3, SQS, Step Function, and EventBridge. 
                Additionally, we use Bitbucket Pipelines to deploy new application versions and configure and utilize Google Analytics 4 in Go and JS.
+
+- title: Developer, Inovvati, Mato Grosso do Sul, BR
+  from: 2024
+  to: present
+  description: Java spring boot developer working with migration of old systems.
 
