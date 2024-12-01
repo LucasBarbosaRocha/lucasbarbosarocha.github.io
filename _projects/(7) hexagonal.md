@@ -1,15 +1,15 @@
 ---
-name: Apache Kafka
+name: Hexagonal Architecture
 tools: [Java, Kafka, Hexagonal, Programming, Spring Boot]
 image: https://i.imgur.com/QnEJQk8.png
-description: H
+description: Example of a hexagonal architecture.
 ---
 
 # DevBook
 
 This spring boot project was developed as a result of the course available at [Udemy](https://www.udemy.com/course/arquitetura-hexagonal-ou-ports-and-adapters-na-pratica/).
 
-This is an example of a hexagonal design. The focus is only on the project structure and how files are created in this architecture.
+This is an example of a hexagonal architecture. The focus is only on the project structure and how files are created in this architecture.
 
 For more details, you can access the source code on GitHub:
 
