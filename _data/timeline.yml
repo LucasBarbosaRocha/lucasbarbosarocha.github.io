@@ -61,12 +61,18 @@
   from: 2021
   to: 2024
   description: Software developer at Akross (Rio de Janeiro), employed by Canopus (Rio Grande do Sul). 
-               I have intermediate experience in Java - Spring Boot, Python, and basic knowledge in GO. 
-               I work with the AWS platform, using services such as Data Pipeline, DynamoDB, Lambda, S3, SQS, Step Function, and EventBridge. 
-               Additionally, we use Bitbucket Pipelines to deploy new application versions and configure and utilize Google Analytics 4 in Go and JS.
+               I was a software developer at the consulting company Canopus, based in Rio Grande do Sul, currently assigned to Akross in Rio de Janeiro. 
+               My main focus is on Java development (Spring Boot and Quarkus) for solutions that leverage AWS resources such as DynamoDB, S3, SQS, SNS, 
+               Step Functions, and EventBridge. I worked on developing and enhancing microservices to support offer contracting demands for customers from Claro. 
+               In addition to Java, we use Go for some microservices and Python for developing lambdas and scripts. Our worked environment also includes 
+               Bitbucket Pipelines for deploying new application versions. In terms of software architecture, we are migrating from an MVC approach to 
+               a hexagonal architecture. Our services are still evolving in this regard as we continue to deepen our understanding of this new architecture.
 
 - title: Developer, Inovvati, Mato Grosso do Sul, BR
   from: 2024
   to: present
-  description: Java spring boot developer working with migration of old systems.
+  description: I  work as a software developer for Detran-MS through Inovvati, where I specialize in Java EE, SQL, and JavaScript. Our main focus is 
+               on integrating with a mainframe-based system. We have developed a website with a JavaScript frontend and a Java EE backend, primarily used by Detran 
+               operators in the licensing/CNH area. Additionally, we make extensive use of native SQL in the backend, both for application functionalities and 
+               for generating reports in Eclipse BIRT and data analysis.
 
