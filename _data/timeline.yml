@@ -25,38 +25,52 @@
 - title: Trainee, Cruzeiro do Sul, Mato Grosso do Sul, BR
   from: 2012
   to: 2012
-  description: Trainee at SENAT at Cruzeiro do Sul company, responsible for providing technical support to employees and computer maintenance.
+  description: On behalf of SENAT-MS, I initially worked in the administrative area and, through an internal opportunity, was transferred to user support. 
+               I was responsible for providing technical support to the employees from company and maintaining computers.
   
 - title: Trainee, Plaenge, Mato Grosso do Sul, BR
   from: 2012
   to: 2013
-  description: Trainee in user support, responsible for computer formatting, peripherals replacement, and network troubleshooting.
+  description: I worked directly in user support as an intern at PLAENGE. I was responsible for formatting computers, replacing peripherals, 
+               and troubleshooting network issues in the office and at construction places.
   
 - title: Trainee, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2013
-  description: Trainee in software development using the DOT NET language, utilizing SQL Server, and generating reports with Crystal Reports.
+  description: I worked like a Trainee in software development using the DOT NET language, utilizing SQL Server, and generating reports with Crystal Reports.
 
 - title: Developer, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2014
-  description: Software developer in the DOT NET language, using SQL Server, and generating reports with Crystal Reports.
+  description: I worked as a software developer in .NET, using SQL Server and generating reports with Crystal Reports 
+               to meet the needs of the company Fiat Enzo in Campo Grande - MS.
+
 
 - title: Scholarship, PET (Programa de Educação Tutoria), Mato Grosso do Sul, BR
   from: 2014
   to: 2017
-  description: I conducted research on Software Registration, addressing its significance and challenges. Additionally, I served as a monitor in Algorithms and Programming courses, guiding and assisting fellow students. Furthermore, I gained valuable knowledge through configuring the Redmine Ubuntu Server and the installation/maintenance of the Rocks Cluster. These experiences significantly contributed to my academic and professional development.
+  description: My experiences at PET Sistemas were as follows. The first project I worked on was a research study on Software Registration (05/2015 - 07/2015), 
+               and the main challenge was understanding how software registration works in Brazil. One of the primary activities I was involved in was as a
+               teaching assistant fot programming courses, helping with exercise grading, creating exercise lists, and answering student questions like a Teaching Assistant 
+               in the course Algorithms and Object-Oriented Programming I (03/2015 - 06/2015), Teaching Assistant in Algorithms and Programming (08/2016 - 12/2016), 
+               and Teaching Assistant in Algorithms and Programming (03/2017 - 08/2017). I spent one month assisting with the configuration of Redmine on Ubuntu Server 
+               (10/2015). Finally, the most challenging task was working on the maintenance of a laboratory cluster, covering both hardware and software aspects, 
+               including the installation and maintenance of Rocks Cluster (2016-2017).
 
 - title: Volunteer monitor, FACOM-UFMS, Mato Grosso do Sul, BR
   from: 2015
   to: 2015
-  description: The project DESTACOM was conducted by some professors from FACOM-UFMS and aims to teach programming logic and programming to students from public and private schools. The motto is "CS Unplugged," which means "Teaching Computing without a computer." In the first part of the project, students learn the concepts without the need for a computer. Then, a programming language is taught, with Python being the chosen one. Monitors accompany the teachers during classes and assist the students in case of doubts.
+  description: I worked as a teaching assistant in a project called DESTACOM, led by professors from FACOM-UFMS. This project aims to teach logic and programming to students 
+               from public and private schools. Its motto is "CS Unplugged," meaning "Teaching Computing without a Computer." In the first part of the project, students 
+               learn concepts without needing a computer. Then, a programming language is introduced, with Python being the chosen language. Teaching assistants support 
+               the professors in class and help students with any questions.
 
 - title: Volunteer monitor, FACOM - UFMS, Mato Grosso do Sul, BR
   from: 2017
   to: 2017
-  description: Volunteer monitor in the subject of Formal Languages and Automata, assisting students with exercise problem-solving and providing support to the professor during classes.
-
+  description: In addition to the tutoring roles I held at PET, I volunteered directly with FACOM (the Computing Faculty) as a teaching assistant in the Formal Languages 
+  and Automata course, supporting students with exercise lists and assisting the professor during classes.
+  
 - title: Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
   to: 2024
