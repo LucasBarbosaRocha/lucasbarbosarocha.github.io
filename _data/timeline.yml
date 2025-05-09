@@ -83,9 +83,13 @@
 
 - title: Developer, Inovvati, Mato Grosso do Sul, BR
   from: 2024
-  to: present
+  to: 2025
   description: I  work as a software developer for Detran-MS through Inovvati, where I specialize in Java EE, SQL, and JavaScript. Our main focus is 
                on integrating with a mainframe-based system. We have developed a website with a JavaScript frontend and a Java EE backend, primarily used by Detran 
                operators in the licensing/CNH area. Additionally, we make extensive use of native SQL in the backend, both for application functionalities and 
                for generating reports in Eclipse BIRT and data analysis.
 
+- title: Developer, T.O Brasil, Rio de Janeiro, BR
+  from: 2025
+  to: present
+  description: I work as a software developer, mainly with Java and Python, building solutions that use AWS resources.
