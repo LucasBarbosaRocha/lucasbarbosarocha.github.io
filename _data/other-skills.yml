@@ -6,14 +6,18 @@
   percentage: 80
   color: primary
 
-- name: Latex
-  percentage: 72
+- name: Git
+  percentage: 79
   color: secondary
 
 - name: AWS
-  percentage: 68
+  percentage: 75
   color: warning
 
-- name: Git
-  percentage: 65
+- name: Kafka
+  percentage: 60
   color: success
+
+- name: Latex
+  percentage: 60
+  color: danger
