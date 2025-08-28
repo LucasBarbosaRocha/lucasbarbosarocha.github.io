@@ -2,11 +2,11 @@
   percentage: 90
   color: danger
 
-- name: Cpp
-  percentage: 75
+- name: Java
+  percentage: 80
   color: primary
 
-- name: Java
+- name: Cpp
   percentage: 73
   color: secondary
   
@@ -17,3 +17,7 @@
 - name: C
   percentage: 50
   color: success
+
+- name: Js
+  percentage: 35
+  color: danger
