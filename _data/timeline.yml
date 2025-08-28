@@ -92,4 +92,8 @@
 - title: Developer, T.O Brasil, Rio de Janeiro, BR
   from: 2025
   to: present
-  description: I work as a software developer, mainly with Java and Python, building solutions that use AWS resources.
+  description: I work as a Java and Python Developer, focusing on AWS-based solutions. I am currently allocated at Prudential do Brasil, where I play a role that 
+               combines development and systems analysis. My responsibilities include understanding the company’s microservices ecosystem to enable the integration
+               of a new business partner, who will use Prudential’s services to offer insurance products. This work involves requirements gathering, technical analysis
+               of existing integrations, and identifying gaps in order to propose and implement solutions that meet client needs while aligning with the company’s 
+               architecture. Development is carried out in Java or Python, leveraging AWS, Kafka, and Oracle and PostgreSQL databases.
