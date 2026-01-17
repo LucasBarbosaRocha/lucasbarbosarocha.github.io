@@ -2,7 +2,7 @@
   percentage: 85
   color: danger
 
-- name: linux
+- name: Linux
   percentage: 80
   color: primary
 
