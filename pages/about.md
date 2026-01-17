@@ -18,12 +18,12 @@ Feel free to visit my [personal Github](https://github.com/lucas-lb-rocha) and m
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Backend Skills" source=site.data.backend-skills %}
 </div>
 
  <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.backend-skills.yml %}
-{% include about/skills.html title="Other Skills" source=site.data.backend-skills.yml%}
+{% include about/skills.html title="Devops Skills" source=site.data.backend-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
