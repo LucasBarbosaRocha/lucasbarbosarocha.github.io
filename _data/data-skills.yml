@@ -1,0 +1,15 @@
+- name: SQL
+  percentage: 85
+  color: danger
+
+- name: PostgreSQL / Oracle
+  percentage: 75
+  color: primary
+
+- name: DynamoDB
+  percentage: 70
+  color: secondary
+
+- name: Kafka
+  percentage: 65
+  color: warning
