@@ -1,23 +1,15 @@
-- name: Linux
-  percentage: 85
+- name: Latex
+  percentage: 70
   color: danger
 
-- name: SQL
-  percentage: 80
+- name: Kibana
+  percentage: 70
   color: primary
 
-- name: Git
-  percentage: 79
+- name: Rancher
+  percentage: 60
   color: secondary
 
-- name: AWS
-  percentage: 75
+- name: Dynatrace
+  percentage: 40
   color: warning
-
-- name: Kafka
-  percentage: 60
-  color: success
-
-- name: Latex
-  percentage: 60
-  color: danger
