@@ -39,7 +39,7 @@
   to: 2013
   description: I worked like a Trainee in software development using the DOT NET language, utilizing SQL Server, and generating reports with Crystal Reports.
 
-- title: Developer, Bitsis, Mato Grosso do Sul, BR
+- title: Junior Developer, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2014
   description: I worked as a software developer in .NET, using SQL Server and generating reports with Crystal Reports 
@@ -70,7 +70,7 @@
   description: In addition to the tutoring roles I held at PET, I volunteered directly with FACOM (the Computing Faculty) as a teaching assistant in the Formal Languages 
                and Automata course, supporting students with exercise lists and assisting the professor during classes.
   
-- title: Developer, Canopus, Rio Grande do Sul, BR
+- title: Mid-Level Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
   to: 2024
   description: Software developer at Akross (Rio de Janeiro), employed by Canopus (Rio Grande do Sul). 
@@ -81,7 +81,7 @@
                Bitbucket Pipelines for deploying new application versions. In terms of software architecture, we are migrating from an MVC approach to 
                a hexagonal architecture. Our services are still evolving in this regard as we continue to deepen our understanding of this new architecture.
 
-- title: Developer, Inovvati, Mato Grosso do Sul, BR
+- title: Mid-Level Developer, Inovvati, Mato Grosso do Sul, BR
   from: 2024
   to: 2025
   description: I  work as a software developer for Detran-MS through Inovvati, where I specialize in Java EE, SQL, and JavaScript. Our main focus is 
@@ -89,11 +89,13 @@
                operators in the licensing/CNH area. Additionally, we make extensive use of native SQL in the backend, both for application functionalities and 
                for generating reports in Eclipse BIRT and data analysis.
 
-- title: Developer, T.O Brasil, Rio de Janeiro, BR
+- title: Senior Developer, T.O Brasil, Rio de Janeiro, BR
   from: 2025
   to: present
-  description: I work as a Java and Python Developer, focusing on AWS-based solutions. I am currently allocated at Prudential do Brasil, where I play a role that 
-               combines development and systems analysis. My responsibilities include understanding the company’s microservices ecosystem to enable the integration
-               of a new business partner, who will use Prudential’s services to offer insurance products. This work involves requirements gathering, technical analysis
-               of existing integrations, and identifying gaps in order to propose and implement solutions that meet client needs while aligning with the company’s 
-               architecture. Development is carried out in Java or Python, leveraging AWS, Kafka, and Oracle and PostgreSQL databases.
+  description: I work as a Java and Python Developer, focusing on the development of RESTful APIs and microservices architectures, using Spring Boot and 
+               AWS-based solutions. Currently, I am assigned to Prudential Brazil, where I perform a role that combines software development and systems analysis. 
+               My responsibilities include understanding the company’s microservices ecosystem to enable integration with a new business partner that will use 
+               Prudential’s services to offer insurance products. This work involves requirements gathering, technical analysis of existing integrations, 
+               identification of gaps, and the proposal of technical solutions, ensuring alignment with both client needs and corporate architecture. 
+               Development is carried out primarily in Java with Spring Boot, involving the creation and maintenance of RESTful services, as well as 
+               Python-based solutions, leveraging AWS, Kafka, and Oracle and PostgreSQL databases.
