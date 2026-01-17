@@ -1,0 +1,19 @@
+- name: REST APIs
+  percentage: 90
+  color: danger
+
+- name: Spring boot
+  percentage: 90
+  color: primary
+
+- name: Microservices
+  percentage: 85
+  color: secundary
+
+- name: Quarkus
+  percentage: 80
+  color: warning
+
+- name: Hexagonal Architecture
+  percentage: 60
+  color: success
