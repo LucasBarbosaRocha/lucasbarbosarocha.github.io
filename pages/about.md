@@ -22,7 +22,12 @@ Feel free to visit my [personal Github](https://github.com/lucas-lb-rocha) and m
 </div>
 
  <div class="row">
-{% include about/skills.html title="Devops Skills" source=site.data.backend-skills %}
+{% include about/skills.html title="Devops and Cloud Skills" source=site.data.devops-skills %}
+{% include about/skills.html title="Data and Messaging Skills" source=site.data.data-skills %}
+</div>
+
+ <div class="row">
+{% include about/skills.html title="Research & Algorithms Skills" source=site.data.research-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
