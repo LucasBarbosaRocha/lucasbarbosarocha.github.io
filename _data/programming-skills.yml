@@ -3,7 +3,7 @@
   color: danger
 
 - name: Java
-  percentage: 80
+  percentage: 90
   color: primary
 
 - name: Cpp
