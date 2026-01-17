@@ -1,0 +1,11 @@
+- name: Algorithms
+  percentage: 92
+  color: danger
+
+- name: Graph Theory
+  percentage: 90
+  color: primary
+
+- name: Bioinformatics
+  percentage: 85
+  color: secondary
