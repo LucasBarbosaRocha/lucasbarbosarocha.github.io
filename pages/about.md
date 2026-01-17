@@ -27,7 +27,7 @@ Feel free to visit my [personal Github](https://github.com/lucas-lb-rocha) and m
 </div>
 
  <div class="row">
-{% include about/skills.html title="Research & Algorithms Skills" source=site.data.research-skills %}
+{% include about/skills.html title="Research Skills" source=site.data.research-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
