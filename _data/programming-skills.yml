@@ -20,4 +20,4 @@
 
 - name: Js
   percentage: 35
-  color: danger
+  color: info
