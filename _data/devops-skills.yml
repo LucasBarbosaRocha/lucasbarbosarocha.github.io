@@ -1,0 +1,15 @@
+- name: AWS
+  percentage: 85
+  color: danger
+
+- name: linux
+  percentage: 80
+  color: primary
+
+- name: CI/CD (Bitbucket)
+  percentage: 65
+  color: secondary
+
+- name: Docker
+  percentage: 60
+  color: warning
