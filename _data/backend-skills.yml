@@ -14,6 +14,10 @@
   percentage: 80
   color: warning
 
+- name: Cursor (IA)
+  percentage: 70
+  color: success
+
 - name: Hexagonal Architecture
   percentage: 60
-  color: success
+  color: info
