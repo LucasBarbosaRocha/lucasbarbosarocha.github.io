@@ -8,13 +8,17 @@ weight: 3
 # **About Me**
 
 Hello, I am **{{ site.author.name }}** :wave:.<br>
-I'm a lifelong computer student and programmer. I adore animals and I'm aspiring to become an amateur cellist.
+Backend Developer with 4+ years of experience in Java, building REST APIs and microservices using Spring Boot and Quarkus.
+
+Currently working as a Senior Developer, focused on system integrations and scalable cloud solutions using AWS and Apache Kafka. I also use Python for automation and have been exploring AI-assisted development workflows with tools like Cursor.
 
 You can find my academic profile on [Lattes](http://lattes.cnpq.br/9266478603595600) and my ORCID is [0000-0002-9606-2569](https://orcid.org/0000-0002-9606-2569).
 
 you can see my beewcrowd profile on [beewcrowd](https://judge.beecrowd.com/pt/profile/26795) (old URI).
 
 Feel free to visit my [personal Github](https://github.com/lucas-lb-rocha) and my [academic Github](https://github.com/LucasBarbosaRocha) profiles.
+
+Beyond tech, I love animals and I'm an aspiring amateur cellist 🎻.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
