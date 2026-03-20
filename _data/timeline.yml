@@ -1,101 +1,106 @@
 - title: Student, Waldemir Barros da Silva, Mato Grosso do Sul, BR
   from: 2008
   to: 2011
-  description: Technical course in computing integrated into high school. 
-               My experiences in the computer technical course include programming and algorithms, database, computer maintenance, computer networks and participation in the Brazilian Olympiad in Informatics (OBI).
-               
+  description: Technical course in Computer Science integrated with high school. 
+               Covered programming, algorithms, databases, computer maintenance, and networks. 
+               Participated in the Brazilian Olympiad in Informatics (OBI).
+
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2014
   to: 2017
-  description: Information system course with a focus on bioinformatics. 
-               Research line is "The problem of selecting specific primers using Hamming distance".
+  description: Bachelor's degree in Information Systems with a focus on Bioinformatics. 
+               Research topic: "The problem of selecting specific primers using Hamming distance".
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2018
   to: 2019
-  description: Master's degree in computer science with a focus on bioinformatics.
-               Research line is "Approaches to the Specific Substring Selection Problem using Hamming Distance". Papers of this work are "Specific Substring Problem an application in bioinformatics" and "Heuristics for the Specific Substring Problem with Hamming Distance".
+  description: Master's degree in Computer Science with a focus on Bioinformatics.
+               Research topic: "Approaches to the Specific Substring Selection Problem using Hamming Distance".
+               Publications include work on the Specific Substring Problem and related heuristics.
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2020
   to: 2024
-  description: Doctor student in computer science with a focus on bioinformatics.
-               Research line is "The problem of sequence mapping in De Bruijn graphs". Paper of this work is "Heuristics for the De Bruijn Graph Sequence Mapping Problem".
+  description: PhD in Computer Science with a focus on Bioinformatics.
+               Research topic: "Sequence mapping in De Bruijn graphs".
+               Published work on heuristics for the De Bruijn Graph Sequence Mapping Problem.
 
 - title: Trainee, Cruzeiro do Sul, Mato Grosso do Sul, BR
   from: 2012
   to: 2012
-  description: On behalf of SENAT-MS, I initially worked in the administrative area and, through an internal opportunity, was transferred to user support. 
-               I was responsible for providing technical support to the employees from company and maintaining computers.
-  
+  description: Started in administrative support and later transitioned to IT support.
+               Responsible for user support and computer maintenance.
+
 - title: Trainee, Plaenge, Mato Grosso do Sul, BR
   from: 2012
   to: 2013
-  description: I worked directly in user support as an intern at PLAENGE. I was responsible for formatting computers, replacing peripherals, 
-               and troubleshooting network issues in the office and at construction places.
-  
+  description: IT support intern responsible for computer maintenance, hardware replacement,
+               and troubleshooting network issues in office and construction environments.
+
 - title: Trainee, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2013
-  description: I worked like a Trainee in software development using the DOT NET language, utilizing SQL Server, and generating reports with Crystal Reports.
+  description: Worked with .NET development, SQL Server, and report generation using Crystal Reports.
 
 - title: Junior Developer, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2014
-  description: I worked as a software developer in .NET, using SQL Server and generating reports with Crystal Reports 
-               to meet the needs of the company Fiat Enzo in Campo Grande - MS.
+  description: Software developer working with .NET, SQL Server, and Crystal Reports,
+               delivering solutions for corporate clients.
 
-- title: Scholarship, PET (Programa de Educação Tutoria), Mato Grosso do Sul, BR
+- title: Scholarship, PET (Programa de Educação Tutorial), Mato Grosso do Sul, BR
   from: 2014
   to: 2017
-  description: My experiences at PET Sistemas were as follows. The first project I worked on was a research study on Software Registration (05/2015 - 07/2015), 
-               and the main challenge was understanding how software registration works in Brazil. One of the primary activities I was involved in was as a
-               teaching assistant fot programming courses, helping with exercise grading, creating exercise lists, and answering student questions like a Teaching Assistant 
-               in the course Algorithms and Object-Oriented Programming I (03/2015 - 06/2015), Teaching Assistant in Algorithms and Programming (08/2016 - 12/2016), 
-               and Teaching Assistant in Algorithms and Programming (03/2017 - 08/2017). I spent one month assisting with the configuration of Redmine on Ubuntu Server 
-               (10/2015). Finally, the most challenging task was working on the maintenance of a laboratory cluster, covering both hardware and software aspects, 
-               including the installation and maintenance of Rocks Cluster (2016-2017).
+  description: Academic program involving teaching, research, and infrastructure support.
+               Acted as a teaching assistant in programming courses and contributed to research on software registration in Brazil.
+               Worked with Linux (Ubuntu Server), Redmine setup, and cluster maintenance (Rocks Cluster).
 
-- title: Volunteer monitor, FACOM-UFMS, Mato Grosso do Sul, BR
+- title: Volunteer Teaching Assistant, FACOM-UFMS, Mato Grosso do Sul, BR
   from: 2015
   to: 2015
-  description: I worked as a teaching assistant in a project called DESTACOM, led by professors from FACOM-UFMS. This project aims to teach logic and programming to students 
-               from public and private schools. Its motto is CS Unplugged, meaning Teaching Computing without a Computer. In the first part of the project, students 
-               learn concepts without needing a computer. Then, a programming language is introduced, with Python being the chosen language. Teaching assistants support 
-               the professors in class and help students with any questions.
+  description: Participated in the DESTACOM project, teaching logic and programming using the CS Unplugged approach.
+               Supported students and introduced programming concepts using Python.
 
-- title: Volunteer monitor, FACOM - UFMS, Mato Grosso do Sul, BR
+- title: Volunteer Teaching Assistant, FACOM-UFMS, Mato Grosso do Sul, BR
   from: 2017
   to: 2017
-  description: In addition to the tutoring roles I held at PET, I volunteered directly with FACOM (the Computing Faculty) as a teaching assistant in the Formal Languages 
-               and Automata course, supporting students with exercise lists and assisting the professor during classes.
-  
+  description: Teaching assistant for Formal Languages and Automata,
+               supporting students and assisting the professor during classes.
+
+- title: Researcher in Computer Science, UFMS FACOM, Mato Grosso do Sul, BR
+  from: 2017
+  to: 2024
+  description: Researcher in Bioinformatics during MSc and PhD studies, focusing on algorithms and heuristics applied to graph theory.
+               Worked on problems such as De Bruijn Graph Sequence Mapping and the Specific Substring Problem.
+               
+               Developed algorithms and conducted computational experiments using C++ and Python.
+               
+               Published research papers in international conferences and journals, including BSB, BIBE, and ICCSA.
+               
+               Additionally, contributed as a teaching assistant in Formal Languages and Automata, supporting students in theoretical concepts and problem-solving.
+               Also participated in the organization of academic events at FACOM-UFMS.
+
 - title: Mid-Level Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
   to: 2024
-  description: Software developer at Akross (Rio de Janeiro), employed by Canopus (Rio Grande do Sul). 
-               I was a software developer at the consulting company Canopus, based in Rio Grande do Sul, currently assigned to Akross in Rio de Janeiro. 
-               My main focus is on Java development (Spring Boot and Quarkus) for solutions that leverage AWS resources such as DynamoDB, S3, SQS, SNS, 
-               Step Functions, and EventBridge. I worked on developing and enhancing microservices to support offer contracting demands for customers from Claro. 
-               In addition to Java, we use Go for some microservices and Python for developing lambdas and scripts. Our worked environment also includes 
-               Bitbucket Pipelines for deploying new application versions. In terms of software architecture, we are migrating from an MVC approach to 
-               a hexagonal architecture. Our services are still evolving in this regard as we continue to deepen our understanding of this new architecture.
+  description: Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
+               Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
+               Also worked with Go and Python (Lambdas and scripts).
+               Participated in migration from MVC to Hexagonal Architecture and CI/CD pipelines with Bitbucket.
 
 - title: Mid-Level Developer, Inovvati, Mato Grosso do Sul, BR
   from: 2024
   to: 2025
-  description: I  work as a software developer for Detran-MS through Inovvati, where I specialize in Java EE, SQL, and JavaScript. Our main focus is 
-               on integrating with a mainframe-based system. We have developed a website with a JavaScript frontend and a Java EE backend, primarily used by Detran 
-               operators in the licensing/CNH area. Additionally, we make extensive use of native SQL in the backend, both for application functionalities and 
-               for generating reports in Eclipse BIRT and data analysis.
+  description: Worked on Detran-MS systems using Java EE, SQL, and JavaScript.
+               Focused on integration with legacy mainframe systems.
+               Developed backend services, reports (Eclipse BIRT), and data analysis solutions.
+               Also contributed to a PoC using AI for automated exam reading with accessibility features.
 
 - title: Senior Developer, T.O Brasil, Rio de Janeiro, BR
   from: 2025
   to: present
-  description: I work as a Java and Python Developer, focusing on the development of RESTful APIs and microservices architectures, using Spring Boot and 
-               AWS-based solutions. Currently, I am assigned to Prudential Brazil, where I perform a role that combines software development and systems analysis. 
-               My responsibilities include understanding the company’s microservices ecosystem to enable integration with a new business partner that will use 
-               Prudential’s services to offer insurance products. This work involves requirements gathering, technical analysis of existing integrations, 
-               identification of gaps, and the proposal of technical solutions, ensuring alignment with both client needs and corporate architecture. 
-               Development is carried out primarily in Java with Spring Boot, involving the creation and maintenance of RESTful services, as well as 
-               Python-based solutions, leveraging AWS, Kafka, and Oracle and PostgreSQL databases.
+  description: Senior Backend Developer working with Java (Spring Boot) and Python.
+               Focused on REST APIs, microservices, and system integrations.
+               Working on projects for Prudential Brazil, handling requirements analysis, integration design,
+               and implementation of scalable solutions using AWS, Apache Kafka, Oracle, and PostgreSQL.
+               Also applies AI tools (Cursor) to support development through code generation rules and skills.
