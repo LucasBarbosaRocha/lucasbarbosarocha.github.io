@@ -9,20 +9,20 @@
   from: 2014
   to: 2017
   description: Bachelor's degree in Information Systems with a focus on Bioinformatics. 
-               Research topic: "The problem of selecting specific primers using Hamming distance".
+               Research topic "The problem of selecting specific primers using Hamming distance".
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2018
   to: 2019
   description: Master's degree in Computer Science with a focus on Bioinformatics.
-               Research topic: "Approaches to the Specific Substring Selection Problem using Hamming Distance".
+               Research topic "Approaches to the Specific Substring Selection Problem using Hamming Distance".
                Publications include work on the Specific Substring Problem and related heuristics.
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2020
   to: 2024
   description: PhD in Computer Science with a focus on Bioinformatics.
-               Research topic: "Sequence mapping in De Bruijn graphs".
+               Research topic "Sequence mapping in De Bruijn graphs".
                Published work on heuristics for the De Bruijn Graph Sequence Mapping Problem.
 
 - title: Trainee, Cruzeiro do Sul, Mato Grosso do Sul, BR
