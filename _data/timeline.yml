@@ -71,12 +71,9 @@
   from: 2017
   to: 2024
   description: Researcher in Bioinformatics during MSc and PhD studies, focusing on algorithms and heuristics applied to graph theory.
-               Worked on problems such as De Bruijn Graph Sequence Mapping and the Specific Substring Problem.
-               
-               Developed algorithms and conducted computational experiments using C++ and Python.
-               
-               Published research papers in international conferences and journals, including BSB, BIBE, and ICCSA.
-               
+               Worked on problems such as De Bruijn Graph Sequence Mapping and the Specific Substring Problem.               
+               Developed algorithms and conducted computational experiments using C++ and Python.               
+               Published research papers in international conferences and journals, including BSB, BIBE, and ICCSA.               
                Additionally, contributed as a teaching assistant in Formal Languages and Automata, supporting students in theoretical concepts and problem-solving.
                Also participated in the organization of academic events at FACOM-UFMS.
 
@@ -103,4 +100,4 @@
                Focused on REST APIs, microservices, and system integrations.
                Working on projects for Prudential Brazil, handling requirements analysis, integration design,
                and implementation of scalable solutions using AWS, Apache Kafka, Oracle, and PostgreSQL.
-               Also applies AI tools (Cursor) to support development through code generation rules and skills.
+               Also applies AI tools to support development through code generation rules and skills.
