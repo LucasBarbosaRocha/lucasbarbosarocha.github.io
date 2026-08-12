@@ -8,9 +8,12 @@ weight: 3
 # **About Me**
 
 Hello, I am **{{ site.author.name }}** :wave:.<br>
-Backend Developer with 4+ years of experience in Java, building REST APIs and microservices using Spring Boot and Quarkus.
 
-Currently working as a Senior Developer, focused on system integrations and scalable cloud solutions using AWS and Apache Kafka. I also use Python for automation and have been exploring AI-assisted development workflows with tools like Cursor.
+Backend Software Developer with 8+ years of experience in software development, including 5+ years of professional experience focused on Java, building REST APIs and microservices using Spring Boot, Quarkus, and Java EE.
+
+Currently working as a Senior Software Developer, focused on system integrations, solution architecture, and the evolution of scalable microservices in distributed and cloud environments using AWS and Apache Kafka. I also use Python for automation and integrations, and have been applying AI-assisted development workflows with tools like Cursor and Claude, including custom skills and rules to support Java/Spring Boot development.
+
+I have a Master's and PhD in Computer Science, with an academic background in Bioinformatics, algorithms, heuristics, and graph theory, primarily using C++ and Python. My research has resulted in publications in national and international conferences.
 
 You can find my academic profile on [Lattes](http://lattes.cnpq.br/9266478603595600) and my ORCID is [0000-0002-9606-2569](https://orcid.org/0000-0002-9606-2569).
 
