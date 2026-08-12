@@ -68,7 +68,7 @@
                supporting students and assisting the professor during classes.
 
 - title: Researcher in Computer Science, UFMS FACOM, Mato Grosso do Sul, BR
-  from: 2017
+  from: 2018
   to: 2024
   description: Researcher in Bioinformatics during MSc and PhD studies, focusing on algorithms and heuristics applied to graph theory.
                Worked on problems such as De Bruijn Graph Sequence Mapping and the Specific Substring Problem.               
@@ -79,6 +79,14 @@
 
 - title: Mid-Level Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
+  to: 2023
+  description: Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
+               Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
+               Also worked with Go and Python (Lambdas and scripts).
+               Participated in migration from MVC to Hexagonal Architecture and CI/CD pipelines with Bitbucket.
+
+ - title: Senior Developer, Canopus, Rio Grande do Sul, BR
+  from: 2023
   to: 2024
   description: Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
                Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
@@ -96,8 +104,10 @@
 - title: Senior Developer, T.O Brasil, Rio de Janeiro, BR
   from: 2025
   to: present
-  description: Senior Backend Developer working with Java (Spring Boot) and Python.
-               Focused on REST APIs, microservices, and system integrations.
-               Working on projects for Prudential Brazil, handling requirements analysis, integration design,
-               and implementation of scalable solutions using AWS, Apache Kafka, Oracle, and PostgreSQL.
-               Also applies AI tools to support development through code generation rules and skills.
+  description: Senior Backend Developer allocated to Prudential do Brasil.
+  Works on the development, evolution, and support of REST APIs and microservices using Java (Spring Boot) and Python.
+  Participates in end-to-end system integration projects, including requirements analysis, solution design, technical impact assessment, and implementation.
+  Works with AWS, Apache Kafka, Oracle, and PostgreSQL in distributed and enterprise environments.
+  Contributes to architectural decisions and provides technical support to the development team, including activities supporting technical leadership.
+  Also works with observability, incident investigation, root cause analysis (RCA), and continuous improvement of production services.
+  Uses Artificial Intelligence tools, including Claude and MCP integrations, to support software development, code generation, log analysis, incident investigation, and developer productivity.
