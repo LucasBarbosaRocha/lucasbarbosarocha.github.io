@@ -1,113 +1,137 @@
 - title: Student, Waldemir Barros da Silva, Mato Grosso do Sul, BR
   from: 2008
   to: 2011
-  description: Technical course in Computer Science integrated with high school. 
-               Covered programming, algorithms, databases, computer maintenance, and networks. 
-               Participated in the Brazilian Olympiad in Informatics (OBI).
+  description: >
+    Technical course in Computer Science integrated with high school.
+    Covered programming, algorithms, databases, computer maintenance, and networks.
+    Participated in the Brazilian Olympiad in Informatics (OBI).
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2014
   to: 2017
-  description: Bachelor's degree in Information Systems with a focus on Bioinformatics. 
-               Research topic "The problem of selecting specific primers using Hamming distance".
+  description: >
+    Bachelor's degree in Information Systems with a focus on Bioinformatics.
+    Research topic "The problem of selecting specific primers using Hamming distance".
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2018
   to: 2019
-  description: Master's degree in Computer Science with a focus on Bioinformatics.
-               Research topic "Approaches to the Specific Substring Selection Problem using Hamming Distance".
-               Publications include work on the Specific Substring Problem and related heuristics.
+  description: >
+    Master's degree in Computer Science with a focus on Bioinformatics.
+    Research topic "Approaches to the Specific Substring Selection Problem using Hamming Distance".
+    Publications include work on the Specific Substring Problem and related heuristics.
 
 - title: Student, UFMS, Mato Grosso do Sul, BR
   from: 2020
   to: 2024
-  description: PhD in Computer Science with a focus on Bioinformatics.
-               Research topic "Sequence mapping in De Bruijn graphs".
-               Published work on heuristics for the De Bruijn Graph Sequence Mapping Problem.
+  description: >
+    PhD in Computer Science with a focus on Bioinformatics.
+    Research topic "Sequence mapping in De Bruijn graphs".
+    Published work on heuristics for the De Bruijn Graph Sequence Mapping Problem.
 
 - title: Trainee, Cruzeiro do Sul, Mato Grosso do Sul, BR
   from: 2012
   to: 2012
-  description: Started in administrative support and later transitioned to IT support.
-               Responsible for user support and computer maintenance.
+  description: >
+    Started in administrative support and later transitioned to IT support.
+    Responsible for user support and computer maintenance.
 
 - title: Trainee, Plaenge, Mato Grosso do Sul, BR
   from: 2012
   to: 2013
-  description: IT support intern responsible for computer maintenance, hardware replacement,
-               and troubleshooting network issues in office and construction environments.
+  description: >
+    IT support intern responsible for computer maintenance, hardware replacement,
+    and troubleshooting network issues in office and construction environments.
 
 - title: Trainee, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2013
-  description: Worked with .NET development, SQL Server, and report generation using Crystal Reports.
+  description: >
+    Worked with .NET development, SQL Server, and report generation using Crystal Reports.
 
 - title: Junior Developer, Bitsis, Mato Grosso do Sul, BR
   from: 2013
   to: 2014
-  description: Software developer working with .NET, SQL Server, and Crystal Reports,
-               delivering solutions for corporate clients.
+  description: >
+    Software developer working with .NET, SQL Server, and Crystal Reports,
+    delivering solutions for corporate clients.
 
 - title: Scholarship, PET (Programa de Educação Tutorial), Mato Grosso do Sul, BR
   from: 2014
   to: 2017
-  description: Academic program involving teaching, research, and infrastructure support.
-               Acted as a teaching assistant in programming courses and contributed to research on software registration in Brazil.
-               Worked with Linux (Ubuntu Server), Redmine setup, and cluster maintenance (Rocks Cluster).
+  description: >
+    Academic program involving teaching, research, and infrastructure support.
+    Acted as a teaching assistant in programming courses and contributed to research
+    on software registration in Brazil.
+    Worked with Linux (Ubuntu Server), Redmine setup, and cluster maintenance (Rocks Cluster).
 
 - title: Volunteer Teaching Assistant, FACOM-UFMS, Mato Grosso do Sul, BR
   from: 2015
   to: 2015
-  description: Participated in the DESTACOM project, teaching logic and programming using the CS Unplugged approach.
-               Supported students and introduced programming concepts using Python.
+  description: >
+    Participated in the DESTACOM project, teaching logic and programming using the CS Unplugged approach.
+    Supported students and introduced programming concepts using Python.
 
 - title: Volunteer Teaching Assistant, FACOM-UFMS, Mato Grosso do Sul, BR
   from: 2017
   to: 2017
-  description: Teaching assistant for Formal Languages and Automata,
-               supporting students and assisting the professor during classes.
+  description: >
+    Teaching assistant for Formal Languages and Automata,
+    supporting students and assisting the professor during classes.
 
 - title: Researcher in Computer Science, UFMS FACOM, Mato Grosso do Sul, BR
   from: 2018
   to: 2024
-  description: Researcher in Bioinformatics during MSc and PhD studies, focusing on algorithms and heuristics applied to graph theory.
-               Worked on problems such as De Bruijn Graph Sequence Mapping and the Specific Substring Problem.               
-               Developed algorithms and conducted computational experiments using C++ and Python.               
-               Published research papers in international conferences and journals, including BSB, BIBE, and ICCSA.               
-               Additionally, contributed as a teaching assistant in Formal Languages and Automata, supporting students in theoretical concepts and problem-solving.
-               Also participated in the organization of academic events at FACOM-UFMS.
+  description: >
+    Researcher in Bioinformatics during MSc and PhD studies, focusing on algorithms
+    and heuristics applied to graph theory.
+    Worked on problems such as De Bruijn Graph Sequence Mapping and the Specific Substring Problem.
+    Developed algorithms and conducted computational experiments using C++ and Python.
+    Published research papers in international conferences and journals, including BSB, BIBE, and ICCSA.
+    Additionally, contributed as a teaching assistant in Formal Languages and Automata,
+    supporting students in theoretical concepts and problem-solving.
+    Also participated in the organization of academic events at FACOM-UFMS.
 
 - title: Mid-Level Developer, Canopus, Rio Grande do Sul, BR
   from: 2021
   to: 2023
-  description: Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
-               Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
-               Also worked with Go and Python (Lambdas and scripts).
-               Participated in migration from MVC to Hexagonal Architecture and CI/CD pipelines with Bitbucket.
+  description: >
+    Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
+    Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
+    Also worked with Go and Python (Lambdas and scripts).
+    Participated in migration from MVC to Hexagonal Architecture and CI/CD pipelines with Bitbucket.
 
- - title: Senior Developer, Canopus, Rio Grande do Sul, BR
+- title: Senior Developer, Canopus, Rio Grande do Sul, BR
   from: 2023
   to: 2024
-  description: Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
-               Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
-               Also worked with Go and Python (Lambdas and scripts).
-               Participated in migration from MVC to Hexagonal Architecture and CI/CD pipelines with Bitbucket.
+  description: >
+    Backend developer working with Java (Spring Boot and Quarkus) in microservices architecture.
+    Built and evolved services using AWS (DynamoDB, S3, SQS, SNS, Step Functions, EventBridge).
+    Also worked with Go and Python (Lambdas and scripts).
+    Participated in migration from MVC to Hexagonal Architecture and CI/CD pipelines with Bitbucket.
 
 - title: Mid-Level Developer, Inovvati, Mato Grosso do Sul, BR
   from: 2024
   to: 2025
-  description: Worked on Detran-MS systems using Java EE, SQL, and JavaScript.
-               Focused on integration with legacy mainframe systems.
-               Developed backend services, reports (Eclipse BIRT), and data analysis solutions.
-               Also contributed to a PoC using AI for automated exam reading with accessibility features.
+  description: >
+    Worked on Detran-MS systems using Java EE, SQL, and JavaScript.
+    Focused on integration with legacy mainframe systems.
+    Developed backend services, reports (Eclipse BIRT), and data analysis solutions.
+    Also contributed to a PoC using AI for automated exam reading with accessibility features.
 
 - title: Senior Developer, T.O Brasil, Rio de Janeiro, BR
   from: 2025
   to: present
-  description: Senior Backend Developer allocated to Prudential do Brasil.
-               Works on the development, evolution, and support of REST APIs and microservices using Java (Spring Boot) and Python.
-               Participates in end-to-end system integration projects, including requirements analysis, solution design, technical impact assessment, and implementation.
-               Works with AWS, Apache Kafka, Oracle, and PostgreSQL in distributed and enterprise environments.
-               Contributes to architectural decisions and provides technical support to the development team, including activities supporting technical leadership.
-               Also works with observability, incident investigation, root cause analysis, and continuous improvement of production services.
-               Uses Artificial Intelligence tools, including Claude and MCP integrations, to support software development, code generation, log analysis, incident investigation, and developer productivity.
+  description: >
+    Senior Backend Developer allocated to Prudential do Brasil.
+    Works on the development, evolution, and support of REST APIs and microservices using Java (Spring Boot) and Python.
+    Participates in end-to-end system integration projects, including requirements analysis,
+    solution design, technical impact assessment, and implementation.
+    Works with AWS, Apache Kafka, Oracle, and PostgreSQL in distributed and enterprise environments.
+    Contributes to architectural decisions and provides technical support to the development team,
+    including activities supporting technical leadership.
+    Also works with observability, incident investigation, root cause analysis,
+    and continuous improvement of production services.
+    Uses Artificial Intelligence tools, including Claude and MCP integrations,
+    to support software development, code generation, log analysis,
+    incident investigation, and developer productivity.
